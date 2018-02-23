@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/ex.js"],"names":["name","getName","age"],"mappings":";;;;;AAAO,IAAMA,sBAAO,MAAb;AACA,IAAOC,4BAAW,SAAXA,OAAW,GAAM;AAC3B,WAAOD,IAAP;AACH,CAFM;;AAIP,IAAME,MAAM,EAAZ;kBACeA,G","file":"ex.js","sourcesContent":["export const name = 'Luck';\nexport const  getName =  () => {\n    return name\n}\n\nconst age = 19;\nexport default age;"]}
